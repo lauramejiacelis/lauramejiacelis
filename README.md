@@ -4,11 +4,11 @@
 
 ✨ What I like | Mis gustos ✨
 
-- 🤓 Learn new things
+- 🤓 Learn new things | Aprender cosas nuevas
 - 👩🏼‍💻 Programming | Programación
-- ⭐ Astronomy & Astrology
-- 📚 Read 
-- ☕ Coffe and talking
+- ⭐ Astronomy & Astrology | Astronomía y Astrología
+- 📚 Read | Leer
+- ☕ Coffe and talking | Un café y conversar
 
 <!---
 lauramejiacelis/lauramejiacelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
