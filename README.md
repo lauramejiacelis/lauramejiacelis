@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lauramejiacelis
-- 🌱 I’m currently learning | Estoy aprendiendo: java, HTML, CSS, JS & programming...
+- 🌱 I’m currently learning | HTML, CSS, JS, REACT & programming...
 - 📫 How to reach me | Cómo contactarme: lauram2celis@gmail.com
 
 ✨ What I like | Mis gustos ✨
