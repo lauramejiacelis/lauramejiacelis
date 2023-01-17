@@ -26,21 +26,9 @@
 
 ### About me
 
-Responsible, dedicated and organized professional,
-with good communication skills, ability to work in
-team and leadership, I'm always willing to listen
-and I'm highly motivated to learn.
-With experience in the commercial area, sales
-administration, marketing, management of
-indicators and commercial reports, management of
-specialized customer accounts.
+I'm a responsible, dedicated and organized professional, with good communication skills, ability to work in teams and leadership, I'm always willing to listen and I'm highly motivated to learn. I have experience in the commercial area, sales administration, marketing, management of indicators and commercial reports, management of specialized customer accounts.
 
-In 2021 I found web development and started
-studying with MINTIC, discovering a new passion in
-my life, then through contacts I started studying
-directly with a full stack developer and I made the
-decision to dedicate myself fully to web
-development.
+In 2021 I found web development and started studying with MINTIC, discovering a new passion in my life, then through contacts I started studying directly with a full stack developer and I made the decision to dedicate myself fully to web development.
 
 
 
